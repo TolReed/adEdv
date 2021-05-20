@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df945451-08e6-4757-8a3b-a2f0b467607a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1siP5smYYQI71iGdkgDB4IkPnHm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="TestNG.FirstScriptTol (1)">
+    <configuration name="FirstScriptTol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adMavenFirstAutomatedScript.FirstScriptTol" />
+      <module name="adMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adMavenFirstAutomatedScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstScriptTol (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="adMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adMaven1Script.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adMaven1Script" />
+      <option name="MAIN_CLASS_NAME" value="adMaven1Script.FirstScriptTol" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstScriptTol" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="adMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adMavenFirstAutomatedScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adMavenFirstAutomatedScript" />
+      <option name="MAIN_CLASS_NAME" value="adMavenFirstAutomatedScript.FirstScriptTol" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstScriptTol.initialize" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="adMavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="adMavenFirstAutomatedScript.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="adMavenFirstAutomatedScript" />
+      <option name="MAIN_CLASS_NAME" value="adMavenFirstAutomatedScript.FirstScriptTol" />
+      <option name="METHOD_NAME" value="initialize" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FirstScriptTol (1)" />
+        <item itemvalue="TestNG.FirstScriptTol" />
+        <item itemvalue="TestNG.FirstScriptTol.initialize" />
+        <item itemvalue="Application.FirstScriptTol" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df945451-08e6-4757-8a3b-a2f0b467607a" name="Default Changelist" comment="" />
+      <created>1621352256872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621352256872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1621363226190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1621363226190" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1621405467494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1621405467494" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1621405467494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1621405467494" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1621405467493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1621405467493" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1621405467494">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1621405467494" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1621354413992">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1621354413992" />
+    <state x="452" y="122" key="chooseDestDirectoryDialog" timestamp="1621362902502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="452" y="122" key="chooseDestDirectoryDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1621362902502" />
+    <state x="91" y="45" key="new project wizard" timestamp="1621371786486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="45" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1621371786486" />
+  </component>
+</project>
